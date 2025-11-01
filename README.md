@@ -1,2 +1,3 @@
 # sigma1_demo
-i am a programmer 
+i am a
+what i should do to make the good develpers 
